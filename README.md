@@ -1,7 +1,7 @@
 ### ATLAS (Automatic Tool for Local Assembly Structures) - a comprehensive infrastructure for assembly, annotation, and genomic binning of metagenomic and metatranscriptomic data (original beta code)
 
-Manuscript in pre-print for non-beta code 
-Located in (https://github.com/raw937/atlas_pre-print)
+Manuscript in pre-print for non-beta code .<br />
+Located in (https://github.com/raw937/atlas_pre-print).<br />
 
 This is the code and analysis for this article. 
 
